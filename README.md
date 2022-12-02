@@ -7,7 +7,7 @@ This hackathon is a continuation of our previous Pan-European Hackathon in 2019 
 * https://github.com/becha42/ClimateJustice/blob/main/ReportHackathon2022.md
 * https://github.com/brunorijsman/quantum-internet-hackathon-2022/
 * https://github.com/Doomsk/QIH-quantifly/tree/main/qkd/src 
-* 
+* https://github.com/theguymeyer/qkd-hackathon-team-uncertainty
 
 ## Slides 
 
